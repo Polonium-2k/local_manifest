@@ -5,4 +5,6 @@
         <project name="Polonium-2k/msm8916-common" path="device/motorola/msm8916-common" remote="github" revision="lineage-15.1" />
         <project name="Polonium-2k/kernel_motorola_msm8916" path="kernel/motorola/msm8916" remote="github" revision="lineage-15.1" />
       	<project name="Polonium-2k/vendor_motorola" path="vendor/motorola" remote="github" revision="lineage-15.1" />
- </manifest>
+<!-- Toolchain -->
+	<project name="Polonium-2k/prebuilts_gcc_linux-x86_arm_arm-eabi-7.2" path="prebuilts/gcc/linux-x86/arm/arm-eabi-7.2" remote="git" revision="master" />
+</manifest>
