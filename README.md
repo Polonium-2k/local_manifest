@@ -44,7 +44,7 @@ OR crdroid
 
     mkdir .repo/local_manifests
     
-    wget -O .repo/local_manifests/MSM8916.xml 'https://raw.githubusercontent.com/Polonium-2k/local_manifest/master/msm8916'    
+    wget -O .repo/local_manifests/msm8916.xml 'https://raw.githubusercontent.com/Polonium-2k/local_manifest/master/msm8916.xml'    
 
 7.Then to sync up:
 
