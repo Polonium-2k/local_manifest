@@ -50,7 +50,7 @@ OR crdroid
 
 OR, for those with limited bandwidth/storage:
 
-    repo sync -c -f --no-clone-bundle --no-tags --force-sync --optimized-fetch --prune
+    repo sync -c -f --no-clone-bundle --no-tags --force-sync --optimized-fetch --prune -q -j12
 
 8.To start the build once everything is ready , Run to prepare our devices list
 
